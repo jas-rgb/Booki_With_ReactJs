@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "image":"reno-laithienne.jpg",
+        "altTxt":"vue sur bateau",
+        "titre":"Vieux Port",
+        "icon": 5
+    },
+    {
+        "id":2,
+        "image":"paul-hermann.jpg",
+        "altTxt":"vue sur bateau",
+        "titre":"Fort de Pomègues",
+        "icon": 5
+    },
+    {
+        "id":3,
+        "image":"kilyan-sockalingum.jpg",
+        "altTxt":"vue sur bateau",
+        "titre":"Parc national des Calanques",
+        "icon": 5
+    },
+    {
+        "id":4,
+        "image":"florian-wehde.jpg",
+        "altTxt":"vue sur bateau",
+        "titre":"Notre Dame-de-la-Gard",
+        "icon": 5
+    }
+]

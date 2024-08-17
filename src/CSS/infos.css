@@ -1,0 +1,12 @@
+.hebergements-cardI{
+    width: 36%;
+}
+.imageI{
+    width: 30%;
+    object-fit: cover;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+.cardHI{
+    
+}

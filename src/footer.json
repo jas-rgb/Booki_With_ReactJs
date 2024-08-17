@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "titre": "À propos",
+        "details": "Fonctionnement du site Conditions générales Données et Confidentialité"
+    },
+    {
+        "id":2,
+        "titre": "Nos Hébergements",
+        "details": "Fonctionnement du site proposez votre hotel"
+   
+    },
+    {
+        "id":2,
+        "titre": "Assistance",
+        "details": "Centre d'aide Nous contacter"
+   
+    }
+]

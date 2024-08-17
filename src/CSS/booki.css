@@ -1,0 +1,162 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+.hebergements-and-populaires {
+    display: flex;
+    justify-content: space-between;
+}
+.hebergements {
+    width: 65%;
+    margin-left: 50px;
+    background-color: rgb(234, 234, 238);
+    padding-left: 22px;
+}
+
+.hebergements-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sec-title {
+    margin: 0;
+    font-size: 25px;
+}
+
+.hebergements-card{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    background-color: rgb(234, 234, 238); 
+}
+.linkpage{
+    width: 33%;
+    display: flex;
+}
+.cardH {
+    display: flex;
+    margin-top: 33px;
+    flex-direction: column;
+    width: 91%;
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+
+.cardH:hover{
+    transform: scale(1.5);
+    box-shadow: rgba(18, 29, 59, 0.9) 0 0 22px 6px;
+}
+
+.cardH-content {
+    font-size: 11px;
+	text-align: left;
+	text-transform: uppercase;
+}
+	
+
+.cardH-title {
+    margin-top: 10px;
+    margin-bottom: 4px;
+    font-size: 19px;
+}
+
+.cardH-subtitle {
+    margin: 0;
+    font-size: 10px;
+}
+
+.cardH img {
+    width: 100%;
+    height: 100px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    object-fit: cover;
+}
+.cardH-rating {
+    margin-bottom: 5px;
+}
+.populaires {
+    width: 32%;
+    padding-left: 58px;
+    margin-left: 45px;
+    background-color: rgb(234, 234, 238);
+    margin-right: 45px;
+}
+
+.populaires-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.populaires-cards .card {
+    display: flex;
+    margin-top: 33px;
+}
+
+.card:hover{
+    transform: scale(1.5);
+    box-shadow: rgba(18, 29, 59, 0.9) 0 0 22px 6px;
+}
+
+
+.populaires-cards img {
+    width: 33%;
+    height: 136px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.populaires-cards .card-content {
+    width: 67%;
+    padding-left: 15px;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.populaires-cards .card-title {
+    margin-top: 10px;
+    margin-bottom: 4px;
+}
+
+.populaires-cards .card-subtitle {
+    margin: 0;
+}
+
+.populaires-cards .card-rating {
+    margin-bottom: 5px;
+}
+.Activites{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 58px;
+}
+.Activites-div{
+    width: 20%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    box-shadow:2px 3px #F2F2F2;
+}
+.Activites-div-images{
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.Activites-Marseilles{
+    padding-left: 58px
+}
+.Activites-div:hover{
+    transform: scale(1.5);
+}
+
+
+
+
+
